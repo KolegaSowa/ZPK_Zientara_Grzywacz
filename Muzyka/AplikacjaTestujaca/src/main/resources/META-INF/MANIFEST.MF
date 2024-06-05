@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: org.example.test.Main
+Class-Path: javafx-graphics-21-win.jar javafx-base-21.jar javafx-control
+ s-21-win.jar javafx-base-21-win.jar javafx-media-21-win.jar javafx-medi
+ a-21.jar SoundsComponent.jar javafx-fxml-21-win.jar javafx-controls-21.
+ jar javafx-fxml-21.jar javafx-graphics-21.jar
+

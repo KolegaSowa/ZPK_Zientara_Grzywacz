@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="PointsCounterComponent">
+    <output-path>$PROJECT_DIR$/out/artifacts/PointsCounterComponent</output-path>
+    <root id="root">
+      <element id="archive" name="PointsCounterComponent.jar">
+        <element id="module-output" name="PointsCounterComponent" />
+      </element>
+    </root>
+  </artifact>
+</component>
